@@ -29,5 +29,11 @@ npm start
 
 yarn start
 
+npm run ios
+
+# OR
+
+yarn ios
+
 ![Screenshot](screenshots/sh1.png 'App Home')
 ![Screenshot](screenshots/sh2.png 'Add new note')
