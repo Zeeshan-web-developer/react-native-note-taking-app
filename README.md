@@ -29,4 +29,5 @@ npm start
 
 yarn start
 
-![Screenshot](screenshots/sh1.png 'Example Screenshot')
+![Screenshot](screenshots/sh1.png 'App Home')
+![Screenshot](screenshots/sh2.png 'Add new note')
